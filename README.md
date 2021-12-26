@@ -14,14 +14,14 @@
 
 </details>
 
-[lab1]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/AStar.py)
-[lab2]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/AOStar.py)
-[lab3]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.py)
-[lab4]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.py)
+[lab1]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/AStar.py
+[lab2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/AOStar.py
+[lab3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.py
+[lab4]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.py
 [lab5]: ()
 [lab6]: ()
 [lab7]: ()
-[lab8]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/KNN.py)
+[lab8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/KNN.py)
 [lab9]: ()
 
 #
