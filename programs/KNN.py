@@ -17,12 +17,3 @@ print('Confusion matrix is as follows')
 print(confusion_matrix(y_test, y_pred))
 print('Accuracy Metrics')
 print(classification_report(y_test, y_pred))
-
-########################################################################################################################
-# OUTPUT:
-# Ignore single quotes at beginning and end
-########################################################################################################################
-
-'''
-
-'''
