@@ -1,14 +1,15 @@
 """Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set
 for building the decision tree and apply knowledge to classify a new sample """
 
+from pprint import pprint
 import pandas as pd
 from pandas import DataFrame
 
 # df_tennis = DataFrame.from
-df_tennis = pd.read_csv('4-id3.csv')
+df_tennis = pd.read_csv('ID3.csv')
 
 # df_tennis = DataFrame.from
-df_tennis = pd.read_csv('4-id3.csv')
+df_tennis = pd.read_csv('ID3.csv')
 
 
 # print(df_tennis)
@@ -65,32 +66,36 @@ def information_gain(df, split_attribute_name, target_attribute_name, trace=0):
 # print('\n Info-gain for Temperature is:' + str( information_gain(df_tennis, 'Temperature','PlayTennis')),"\n")
 
 
-def id3(df, target_attribute_name, attribute_names, default_class=None):  ## Tally target attribute
+def id3(df, target_attribute_name, attribute_names, default_class=None):  # Tally target attribute
     from collections import Counter
     cnt = Counter(x for x in df[target_attribute_name])  # class of YES /NO
-    ## First check: Is this split of the dataset homogeneous?
+    # First check: Is this split of the dataset homogeneous?
     if len(cnt) == 1:
         return next(iter(cnt))
-    ## Second check: Is this split of the dataset empty?
+    # Second check: Is this split of the dataset empty?
     # if yes, return a default value
     elif df.empty or (not attribute_names):
         return default_class
-        ## Otherwise: This dataset is ready to be divvied up!
+        # Otherwise: This dataset is ready to be divvied up!
     else:
-        default_class = max(cnt.keys())  # [index_of_max] # most common value  of  target  attribute in dataset
+        # [index_of_max] # most common value  of  target  attribute in dataset
+        default_class = max(cnt.keys())
         # Choose Best Attribute to split on:
-        gainz = [information_gain(df, attr, target_attribute_name) for attr in attribute_names]
+        gainz = [information_gain(df, attr, target_attribute_name)
+                 for attr in attribute_names]
         index_of_max = gainz.index(max(gainz))
         best_attr = attribute_names[index_of_max]
         # Create an empty tree, to be populated in a moment
         tree = {best_attr: {}}
-        remaining_attribute_names = [i for i in attribute_names if i != best_attr]
+        remaining_attribute_names = [
+            i for i in attribute_names if i != best_attr]
         # Split dataset
         # On each split, recursively call this algorithm.
         # populate the empty tree with subtrees, which
         # are the result of the recursive call
         for attr_val, data_subset in df.groupby(best_attr):
-            subtree = id3(data_subset, target_attribute_name, remaining_attribute_names, default_class)
+            subtree = id3(data_subset, target_attribute_name,
+                          remaining_attribute_names, default_class)
             tree[best_attr][attr_val] = subtree
         return tree
 
@@ -102,7 +107,6 @@ attribute_names.remove('PlayTennis')  # Remove the class attribute
 print("Predicting Attributes:", attribute_names)
 
 # Tree Construction
-from pprint import pprint
 
 tree = id3(df_tennis, 'PlayTennis', attribute_names)
 print("\n\nThe Resultant Decision Tree is :\n")
@@ -125,7 +129,8 @@ def classify(instance, tree, default=None):
 df_tennis['predicted'] = df_tennis.apply(classify, axis=1, args=(tree, 'No'))
 # classify func allows for a default arg: when tree doesn't have answered for a particular
 # combination of attribute-values, we can use 'no' as the default guess
-print('Accuracy is:' + str(sum(df_tennis['PlayTennis'] == df_tennis['predicted']) / (1.0 * len(df_tennis.index))))
+print('Accuracy is:' + str(sum(df_tennis['PlayTennis'] ==
+      df_tennis['predicted']) / (1.0 * len(df_tennis.index))))
 df_tennis[['PlayTennis', 'predicted']]
 
 # Classification Accuracy: Training/Testing Set training_data = df_tennis.iloc[1:-4] # all but last thousand

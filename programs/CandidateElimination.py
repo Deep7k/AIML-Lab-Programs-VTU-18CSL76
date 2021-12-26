@@ -4,7 +4,7 @@ examples """
 
 import csv
 
-with open("1-CandidateElimination.csv") as f:
+with open("CandidateElimination.csv") as f:
     csv_file = csv.reader(f)
     data = list(csv_file)
 
