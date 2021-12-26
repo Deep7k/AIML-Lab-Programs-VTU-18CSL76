@@ -18,17 +18,17 @@
 [lab2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/AOStar.py
 [lab3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.py
 [lab4]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.py
-[lab5]: ()
-[lab6]: ()
-[lab7]: ()
+[lab5]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
+[lab6]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
+[lab7]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
 [lab8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/KNN.py
-[lab9]: ()
+[lab9]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
 
 #
 
 [csv1]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.csv
 [csv2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.csv
-[csv3]: ()
+[csv3]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
 
 #
 
@@ -36,8 +36,8 @@
 [output2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/AOStar_output.txt
 [output3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/CandidateElimination_output.txt
 [output4]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/ID3_output.txt
-[output5]: ()
-[output6]: ()
-[output7]: ()
-[output8]: ()
-[output9]: ()
+[output5]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
+[output6]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
+[output7]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
+[output8]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
+[output9]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png)
