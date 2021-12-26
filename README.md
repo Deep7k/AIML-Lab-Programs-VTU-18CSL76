@@ -21,21 +21,21 @@
 [lab5]: ()
 [lab6]: ()
 [lab7]: ()
-[lab8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/KNN.py)
+[lab8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/KNN.py
 [lab9]: ()
 
 #
 
-[csv1]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.csv)
-[csv2]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.csv)
+[csv1]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.csv
+[csv2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.csv
 [csv3]: ()
 
 #
 
-[output1]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/AStar_output.txt)
-[output2]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/AOStar_output.txt)
-[output3]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/CandidateElimination_output.txt)
-[output4]: (https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/ID3_output.txt)
+[output1]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/AStar_output.txt
+[output2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/AOStar_output.txt
+[output3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/CandidateElimination_output.txt
+[output4]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/ID3_output.txt
 [output5]: ()
 [output6]: ()
 [output7]: ()
