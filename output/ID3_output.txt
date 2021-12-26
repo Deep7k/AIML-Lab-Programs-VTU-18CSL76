@@ -1,0 +1,187 @@
+No and Yes Classes: PlayTennis Counter({'yes': 9, 'no': 5})
+Entropy of given PlayTennis Data Set: 0.9402859586706309
+List of Attributes: ['Outlook', 'Temperature', 'Humidity', 'Wind', 'PlayTennis']
+Predicting Attributes: ['Outlook', 'Temperature', 'Humidity', 'Wind']
+Information Gain Calculation of  Outlook
+overcast
+Outlook Temperature Humidity    Wind PlayTennis
+2   overcast         hot     high    weak        yes
+6   overcast        cool   normal  strong        yes
+11  overcast        mild     high  strong        yes
+12  overcast         hot   normal    weak        yes
+rain
+Outlook Temperature Humidity    Wind PlayTennis
+3     rain        mild     high    weak        yes
+4     rain        cool   normal    weak        yes
+5     rain        cool   normal  strong         no
+9     rain        mild   normal    weak        yes
+13    rain        mild     high  strong         no
+sunny
+Outlook Temperature Humidity    Wind PlayTennis
+0    sunny         hot     high    weak         no
+1    sunny         hot     high  strong         no
+7    sunny        mild     high    weak         no
+8    sunny        cool   normal    weak        yes
+10   sunny        mild   normal  strong        yes
+No and Yes Classes: PlayTennis Counter({'yes': 4})
+No and Yes Classes: PlayTennis Counter({'yes': 3, 'no': 2})
+No and Yes Classes: PlayTennis Counter({'no': 3, 'yes': 2})
+No and Yes Classes: PlayTennis Counter({'yes': 9, 'no': 5})
+Information Gain Calculation of  Temperature
+cool
+Outlook Temperature Humidity    Wind PlayTennis
+4      rain        cool   normal    weak        yes
+5      rain        cool   normal  strong         no
+6  overcast        cool   normal  strong        yes
+8     sunny        cool   normal    weak        yes
+hot
+Outlook Temperature Humidity    Wind PlayTennis
+0      sunny         hot     high    weak         no
+1      sunny         hot     high  strong         no
+2   overcast         hot     high    weak        yes
+12  overcast         hot   normal    weak        yes
+mild
+Outlook Temperature Humidity    Wind PlayTennis
+3       rain        mild     high    weak        yes
+7      sunny        mild     high    weak         no
+9       rain        mild   normal    weak        yes
+10     sunny        mild   normal  strong        yes
+11  overcast        mild     high  strong        yes
+13      rain        mild     high  strong         no
+No and Yes Classes: PlayTennis Counter({'yes': 3, 'no': 1})
+No and Yes Classes: PlayTennis Counter({'no': 2, 'yes': 2})
+No and Yes Classes: PlayTennis Counter({'yes': 4, 'no': 2})
+No and Yes Classes: PlayTennis Counter({'yes': 9, 'no': 5})
+Information Gain Calculation of  Humidity
+high
+Outlook Temperature Humidity    Wind PlayTennis
+0      sunny         hot     high    weak         no
+1      sunny         hot     high  strong         no
+2   overcast         hot     high    weak        yes
+3       rain        mild     high    weak        yes
+7      sunny        mild     high    weak         no
+11  overcast        mild     high  strong        yes
+13      rain        mild     high  strong         no
+normal
+Outlook Temperature Humidity    Wind PlayTennis
+4       rain        cool   normal    weak        yes
+5       rain        cool   normal  strong         no
+6   overcast        cool   normal  strong        yes
+8      sunny        cool   normal    weak        yes
+9       rain        mild   normal    weak        yes
+10     sunny        mild   normal  strong        yes
+12  overcast         hot   normal    weak        yes
+No and Yes Classes: PlayTennis Counter({'no': 4, 'yes': 3})
+No and Yes Classes: PlayTennis Counter({'yes': 6, 'no': 1})
+No and Yes Classes: PlayTennis Counter({'yes': 9, 'no': 5})
+Information Gain Calculation of  Wind
+strong
+Outlook Temperature Humidity    Wind PlayTennis
+1      sunny         hot     high  strong         no
+5       rain        cool   normal  strong         no
+6   overcast        cool   normal  strong        yes
+10     sunny        mild   normal  strong        yes
+11  overcast        mild     high  strong        yes
+13      rain        mild     high  strong         no
+weak
+Outlook Temperature Humidity  Wind PlayTennis
+0      sunny         hot     high  weak         no
+2   overcast         hot     high  weak        yes
+3       rain        mild     high  weak        yes
+4       rain        cool   normal  weak        yes
+7      sunny        mild     high  weak         no
+8      sunny        cool   normal  weak        yes
+9       rain        mild   normal  weak        yes
+12  overcast         hot   normal  weak        yes
+No and Yes Classes: PlayTennis Counter({'no': 3, 'yes': 3})
+No and Yes Classes: PlayTennis Counter({'yes': 6, 'no': 2})
+No and Yes Classes: PlayTennis Counter({'yes': 9, 'no': 5})
+Information Gain Calculation of  Temperature
+cool
+Outlook Temperature Humidity    Wind PlayTennis
+4    rain        cool   normal    weak        yes
+5    rain        cool   normal  strong         no
+mild
+Outlook Temperature Humidity    Wind PlayTennis
+3     rain        mild     high    weak        yes
+9     rain        mild   normal    weak        yes
+13    rain        mild     high  strong         no
+No and Yes Classes: PlayTennis Counter({'yes': 1, 'no': 1})
+No and Yes Classes: PlayTennis Counter({'yes': 2, 'no': 1})
+No and Yes Classes: PlayTennis Counter({'yes': 3, 'no': 2})
+Information Gain Calculation of  Humidity
+high
+Outlook Temperature Humidity    Wind PlayTennis
+3     rain        mild     high    weak        yes
+13    rain        mild     high  strong         no
+normal
+Outlook Temperature Humidity    Wind PlayTennis
+4    rain        cool   normal    weak        yes
+5    rain        cool   normal  strong         no
+9    rain        mild   normal    weak        yes
+No and Yes Classes: PlayTennis Counter({'yes': 1, 'no': 1})
+No and Yes Classes: PlayTennis Counter({'yes': 2, 'no': 1})
+No and Yes Classes: PlayTennis Counter({'yes': 3, 'no': 2})
+Information Gain Calculation of  Wind
+strong
+Outlook Temperature Humidity    Wind PlayTennis
+5     rain        cool   normal  strong         no
+13    rain        mild     high  strong         no
+weak
+Outlook Temperature Humidity  Wind PlayTennis
+3    rain        mild     high  weak        yes
+4    rain        cool   normal  weak        yes
+9    rain        mild   normal  weak        yes
+No and Yes Classes: PlayTennis Counter({'no': 2})
+No and Yes Classes: PlayTennis Counter({'yes': 3})
+No and Yes Classes: PlayTennis Counter({'yes': 3, 'no': 2})
+Information Gain Calculation of  Temperature
+cool
+Outlook Temperature Humidity  Wind PlayTennis
+8   sunny        cool   normal  weak        yes
+hot
+Outlook Temperature Humidity    Wind PlayTennis
+0   sunny         hot     high    weak         no
+1   sunny         hot     high  strong         no
+mild
+Outlook Temperature Humidity    Wind PlayTennis
+7    sunny        mild     high    weak         no
+10   sunny        mild   normal  strong        yes
+No and Yes Classes: PlayTennis Counter({'yes': 1})
+No and Yes Classes: PlayTennis Counter({'no': 2})
+No and Yes Classes: PlayTennis Counter({'no': 1, 'yes': 1})
+No and Yes Classes: PlayTennis Counter({'no': 3, 'yes': 2})
+Information Gain Calculation of  Humidity
+high
+Outlook Temperature Humidity    Wind PlayTennis
+0   sunny         hot     high    weak         no
+1   sunny         hot     high  strong         no
+7   sunny        mild     high    weak         no
+normal
+Outlook Temperature Humidity    Wind PlayTennis
+8    sunny        cool   normal    weak        yes
+10   sunny        mild   normal  strong        yes
+No and Yes Classes: PlayTennis Counter({'no': 3})
+No and Yes Classes: PlayTennis Counter({'yes': 2})
+No and Yes Classes: PlayTennis Counter({'no': 3, 'yes': 2})
+Information Gain Calculation of  Wind
+strong
+Outlook Temperature Humidity    Wind PlayTennis
+1    sunny         hot     high  strong         no
+10   sunny        mild   normal  strong        yes
+weak
+Outlook Temperature Humidity  Wind PlayTennis
+0   sunny         hot     high  weak         no
+7   sunny        mild     high  weak         no
+8   sunny        cool   normal  weak        yes
+No and Yes Classes: PlayTennis Counter({'no': 1, 'yes': 1})
+No and Yes Classes: PlayTennis Counter({'no': 2, 'yes': 1})
+No and Yes Classes: PlayTennis Counter({'no': 3, 'yes': 2})
+
+
+The Resultant Decision Tree is :
+
+{'Outlook': {'overcast': 'yes',
+             'rain': {'Wind': {'strong': 'no', 'weak': 'yes'}},
+             'sunny': {'Humidity': {'high': 'no', 'normal': 'yes'}}}}
+Accuracy is: 1.0
