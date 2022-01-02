@@ -23,15 +23,9 @@
 [lab7]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png
 [lab8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/KNN.py
 [lab9]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png
-
-#
-
 [csv1]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.csv
 [csv2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.csv
 [csv3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/resource1.png
-
-#
-
 [output1]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/AStar_output.txt
 [output2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/AOStar_output.txt
 [output3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/CandidateElimination_output.txt
