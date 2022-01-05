@@ -1,0 +1,14 @@
+Confusion matrix is as follows
+[[ 9  0  0]
+ [ 0 12  0]
+ [ 0  1  8]]
+Accuracy Metrics
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         9
+           1       0.92      1.00      0.96        12
+           2       1.00      0.89      0.94         9
+
+    accuracy                           0.97        30
+   macro avg       0.97      0.96      0.97        30
+weighted avg       0.97      0.97      0.97        30
