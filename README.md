@@ -18,7 +18,7 @@
 [lab2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/AOStar.py
 [lab3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.py
 [lab4]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.py
-[lab5]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
+[lab5]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/Backpropagation.py
 [lab6]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
 [lab7]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
 [lab8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/KNN.py
@@ -33,5 +33,5 @@
 [output5]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
 [output6]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
 [output7]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
-[output8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
+[output8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/KNN_output.txt
 [output9]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
