@@ -1,0 +1,24 @@
+Total Instances of Dataset:  18
+   about  am  amazing  an  awesome  beers  ...  today  very  view  went  what  work
+0      0   0        0   1        1      0  ...      0     0     1     0     1     0
+1      0   0        0   0        0      0  ...      0     0     0     0     0     0
+2      0   0        0   0        0      0  ...      0     0     0     0     0     0
+3      0   0        0   0        0      0  ...      1     0     0     1     0     0
+4      0   0        0   1        1      0  ...      0     0     0     0     0     0
+
+[5 rows x 39 columns]
+What an awesome view -> pos
+I love to dance -> neg
+He is my sworn enemy -> pos
+I went to my enemy's house today -> pos
+This is an awesome place -> neg
+Accuracy Metrics: 
+
+Accuracy:  0.6
+Recall:  1.0
+Precision:  0.3333333333333333
+Confusion Matrix: 
+ [[2 2]
+ [0 1]]
+
+Process finished with exit code 0
