@@ -34,4 +34,4 @@
 [output6]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/NBC.txt
 [output7]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/KMeans_output.txt
 [output8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/KNN_output.txt
-[output9]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/LocallyWeightedRegression_output.txt
+[output9]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/LocallyWeightedRegression_output.png
