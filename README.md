@@ -20,9 +20,9 @@
 [lab4]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.py
 [lab5]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/Backpropagation.py
 [lab6]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/NBC.py
-[lab7]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
+[lab7]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/KMeans.py
 [lab8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/KNN.py
-[lab9]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
+[lab9]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/LocallyWeightedRegression.py
 [csv1]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.csv
 [csv2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.csv
 [csv3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/NBC.csv
@@ -32,6 +32,6 @@
 [output4]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/ID3_output.txt
 [output5]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/Backpropagation_output.txt
 [output6]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/NBC.txt
-[output7]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
+[output7]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/KMeans_output.txt
 [output8]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/KNN_output.txt
-[output9]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/resources/comingSoon.png
+[output9]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/LocallyWeightedRegression_output.txt

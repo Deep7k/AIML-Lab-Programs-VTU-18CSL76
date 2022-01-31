@@ -17,3 +17,28 @@ print('Confusion matrix is as follows')
 print(confusion_matrix(y_test, y_pred))
 print('Accuracy Metrics')
 print(classification_report(y_test, y_pred))
+
+########################################################################################################################
+# OUTPUT:
+# Ignore double quotes at beginning and end
+########################################################################################################################
+
+"""
+Confusion matrix is as follows
+[[10  0  0]
+ [ 0  6  0]
+ [ 0  2 12]]
+Accuracy Metrics
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        10
+           1       0.75      1.00      0.86         6
+           2       1.00      0.86      0.92        14
+
+    accuracy                           0.93        30
+   macro avg       0.92      0.95      0.93        30
+weighted avg       0.95      0.93      0.94        30
+
+
+Process finished with exit code 0
+"""
