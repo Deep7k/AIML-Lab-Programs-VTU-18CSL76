@@ -1,4 +1,4 @@
-# ARTIFICIAL INTELLIGENCE & MACHINE LEARNING LABORATORY
+# ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LABORATORY
 
 | EXP NO |       EXPERIMENT NAME       |       EXPERIMENT SOLUTION       |      OUTPUT       |
 | :----: | :-------------------------: | :-----------------------------: | :---------------: |
