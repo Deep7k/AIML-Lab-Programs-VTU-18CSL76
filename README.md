@@ -1,3 +1,5 @@
+## ⚠️ This repository is no longer actively maintained and will not receive further updates. While the existing code and documentation remain available for reference.
+
 # ARTIFICIAL INTELLIGENCE & MACHINE LEARNING LABORATORY
 
 | EXP NO |       EXPERIMENT NAME       |       EXPERIMENT SOLUTION       |      OUTPUT       |
